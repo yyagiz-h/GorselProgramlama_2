@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma_Tablosu.Form1.resources
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.AssemblyInfo.cs
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\bin\Debug\net8.0-windows\Çarpma Tablosu.exe
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\bin\Debug\net8.0-windows\Çarpma Tablosu.deps.json
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\bin\Debug\net8.0-windows\Çarpma Tablosu.runtimeconfig.json
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\bin\Debug\net8.0-windows\Çarpma Tablosu.dll
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\bin\Debug\net8.0-windows\Çarpma Tablosu.pdb
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.dll
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\refint\Çarpma Tablosu.dll
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.pdb
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\Çarpma Tablosu.genruntimeconfig.cache
+C:\Users\USER\Desktop\ödev\Çarpma Tablosu\Çarpma Tablosu\obj\Debug\net8.0-windows\ref\Çarpma Tablosu.dll
